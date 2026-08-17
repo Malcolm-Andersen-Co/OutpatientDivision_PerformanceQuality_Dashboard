@@ -24,7 +24,8 @@ Due to the systems  age, structure of the hospital system, and size of the datas
   2. To create a consolidated database that holds all data points of quality performance for all departments until the available data records
   3. Preserve data integrity through out the entire pipeline and present the performance of each department and the entire division as honestly as possible.
 
-
+## AI Disclaimer
+AI was used in this project for idea generation and general brainstorming of project ideas with available datasets. All data cleaning, transforming, and dashboard building is done by me. 
 
 
 
